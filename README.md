@@ -5,6 +5,12 @@ The meeting host can click on user's stream to get face recognition and eye aspe
 The threshold value is set to 0.20. If, for 10 consecutive frames the eye aspect ratio (EAR) is lesser than this threshold value, we get "Distracted" seen on the screen.</br>
 # [Repository for flask server](https://github.com/riyasr21/flask-server)
 
+# [Final Deployment Link](https://distracto-meeter-frontend.herokuapp.com/)
+
+# [Link for Canva Presentation](https://www.canva.com/design/DAFCEDAI6XE/6vA04m8owT2IQbi5kAv6pw/edit?utm_content=DAFCEDAI6XE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# [Video Demo](https://drive.google.com/file/d/13ma-dlbecxP-SW6yASK3FkhnIKWs1oI-/view?usp=sharing)
+
 # Tech stack 
 1. React - Redux
 2. Node js
