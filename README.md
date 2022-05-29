@@ -6,6 +6,8 @@ The threshold value is set to 0.20. If, for 10 consecutive frames the eye aspect
 # [Repository for flask server](https://github.com/riyasr21/flask-server)
 
 # [Final Deployment Link](https://distracto-meeter-frontend.herokuapp.com/)
+The final deployment doesn't include the facial expression detection using fastai as it wasn't getting deployed due to large slug size. It only contains the awareness detection component.
+
 
 # [Link for Canva Presentation](https://www.canva.com/design/DAFCEDAI6XE/6vA04m8owT2IQbi5kAv6pw/edit?utm_content=DAFCEDAI6XE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
