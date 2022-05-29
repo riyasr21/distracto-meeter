@@ -1,9 +1,9 @@
 # distracto-meeter
-a web based video meeting application along with detection of user's awareness and expression
+## a web based video meeting application along with detection of user's awareness and expression
 
 The meeting host can click on user's stream to get face recognition and eye aspect ratio detected. <br/>
 The threshold value is set to 0.20. If, for 10 consecutive frames the eye aspect ratio (EAR) is lesser than this threshold value, we get "Distracted" seen on the screen.</br>
-[Repository for flask server](https://github.com/riyasr21/flask-server)
+# [Repository for flask server](https://github.com/riyasr21/flask-server)
 
 # Tech stack 
 1. React - Redux
