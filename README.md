@@ -34,5 +34,22 @@ The final deployment doesn't include the facial expression detection using fasta
 ![image](https://user-images.githubusercontent.com/89318501/170872968-4377ee34-14cc-478a-8495-f6a242906fe6.png)
 ![image](https://user-images.githubusercontent.com/89318501/170873091-83480375-2d01-4817-b3c7-595b4cd4165e.png)
 
+## Installation
+For react app: -
+$ cd react-app
+$ npm install
+$ npm start
+For flask app: -
+
+$ cd server
+$ npm install
+$ node server.js
+
+## Few pointers
+1. Make sure that Node 16.5.0 is installed for proper functioning.
+2. While copying the meeting id, take care of the leading whitespace character.
+3. The Mesh architecture of WebRTC is applied, so right now at most 4 users can join a room.
+4. At a time, if you are a host, click on only one user's incoming stream to ensure proper functioning of flask server as it is performing quite CPU intensive task.
+
 
 ### Thank you!
