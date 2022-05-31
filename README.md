@@ -35,12 +35,12 @@ The final deployment doesn't include the facial expression detection using fasta
 ![image](https://user-images.githubusercontent.com/89318501/170873091-83480375-2d01-4817-b3c7-595b4cd4165e.png)
 
 ## Installation
-For react app: -
-$ cd react-app
-$ npm install
-$ npm start
-For flask app: -
-
+For frontend: - </br>
+$ cd distracto-meeter-frontend </br>
+$ npm install </br>
+$ npm start </br>
+For flask server: - Go to the flask server repository please [Repository for flask server](https://github.com/riyasr21/flask-server) </br>
+For nodejs server </br>
 $ cd server
 $ npm install
 $ node server.js
