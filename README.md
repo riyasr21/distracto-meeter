@@ -41,9 +41,9 @@ $ npm install </br>
 $ npm start </br>
 For flask server: - Go to the flask server repository please [Repository for flask server](https://github.com/riyasr21/flask-server) </br>
 For nodejs server </br>
-$ cd server
-$ npm install
-$ node server.js
+$ cd server </br>
+$ npm install </br>
+$ node server.js </br>
 
 ## Few pointers
 1. Make sure that Node 16.5.0 is installed for proper functioning.
